@@ -1,0 +1,28 @@
+.addprops{
+    background-color: darkgoldenrod;
+    
+    margin-top: 20px;
+    font-size: 2rem;
+}
+.addprops:hover{
+    background-color: darkblue;
+    color: white;
+    
+    
+}
+.visible{
+ color: red;
+ 
+}
+.yupp{
+   background-color: cyan;
+    
+    text-align: center;
+}
+.coll{
+    font-size: 1.5rem;
+    background-color: gold;
+}
+
+
+
